@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/76/db/3d/76db3de1931e9ff93aedda6fcc1da49a.jpg");
+    background-size: cover;
+}
+
+pre{
+    color: #ffff;
+    text-align: center;
+    font-size: 23px;
+}
+
+button{
+    margin: 0 auto;
+    display: block;
+    border: none;
+    color: black;
+    cursor: pointer;
+    width: 140px;
+    height: 40px;
+    border-radius: 12px;
+}
